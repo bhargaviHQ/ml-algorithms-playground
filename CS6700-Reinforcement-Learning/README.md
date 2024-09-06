@@ -17,7 +17,7 @@ This repository contains assignments for a course on **CS6700-Reinforcement-Lear
 - **Key Concepts**: Deep learning, Q-learning
 - **Environment**: Acrobot-v1 (OpenAI Gym)
 
-[Acrobot DQN Implementation](/Assignments/Acrobot_DQN.ipynb)
+[Acrobot DQN Implementation](/CS6700-Reinforcement-Learning/Assignments/Acrobot_DQN.ipynb)
 
 ---
 
@@ -26,7 +26,7 @@ This repository contains assignments for a course on **CS6700-Reinforcement-Lear
 - **Key Concepts**: Policy gradients, temporal difference learning, one-step and n-step returns, Actor-Critic.
 - **Environment**: CartPole-v1 (OpenAI Gym)
 
-[Cartpole Actor-Critic Implementation](/Assignments/Cartpole_Actor-Critic.ipynb)
+[Cartpole Actor-Critic Implementation](/CS6700-Reinforcement-Learning/Assignments/Cartpole_Actor-Critic.ipynb)
 
 ---
 
@@ -35,6 +35,6 @@ This repository contains assignments for a course on **CS6700-Reinforcement-Lear
 - **Key Concepts**: Temporal abstraction, options framework, intra-option learning, SMDP, heat map visualization.
 - **Environment**: Taxi-v3 (OpenAI Gym)
 
-[Taxi SMDP Intra-Option Q-learning Implementation](/Assignments/Taxi_Qlearning.ipynb)
+[Taxi SMDP Intra-Option Q-learning Implementation](/CS6700-Reinforcement-Learning/Assignments/Taxi_Qlearning.ipynb)
 
 ---
